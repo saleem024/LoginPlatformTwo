@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_one"
+        android:icon="@mipmap/ic_launcher_home"
+        android:title="Bottom1"/>
+
+    <item
+        android:id="@+id/action_two"
+        android:icon="@mipmap/ic_launcher_home"
+        android:title="Bottom2"/>
+
+
+    <item
+        android:id="@+id/action_three"
+        android:icon="@mipmap/ic_launcher_home"
+        android:title="Bottom3"
+      />
+    <item
+        android:id="@+id/action_four"
+        android:icon="@mipmap/ic_launcher_home"
+        android:title="Bottom4"/>
+    <item
+        android:id="@+id/action_five"
+        android:icon="@mipmap/ic_launcher_home"
+        android:title="Bottom5" />
+
+</menu>

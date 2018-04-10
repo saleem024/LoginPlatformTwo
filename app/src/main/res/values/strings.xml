@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Login Platform</string>
+    <string name="app_icon_name">Login Platform</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <color name="colorGray">#b0bec5</color>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="searchable">Searchable</string>
+    <string name="pass_not_reset">Unable to reset password</string>
+    <string name="pass_change_success">Password changed succesfully</string>
+    <string name="pass_not_change">Unable to change password..</string>
+    <string name="contact_empty">Enter valid Contact No</string>
+    <string name="pass_reset_success">Login with your new password sent to your registered mail id</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="no_internet_connection">No Internet Connection Available.Please connect to internet</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="emailpattern">[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+    <string name="forgot_password_msg">Provide your registered Email Id to follow password reset instructions.</string>
+    <string name="user_login">User Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Login</string>
+    <string name="not_have_acc_sign_up"> Don\'t have an account? Register Here!</string>
+    <string name="setting">► Settings</string>
+    <string name="email_error">Enter valid email</string>
+    <string name="invalid_credential_msg">Invalid Email or Password</string>
+    <string name="password_empty">Please enter password</string>
+    <string name="user_reg">User Registration</string>
+    <string name="sign_up">Register</string>
+    <string name="ady_reg_sign_in">Already Registered? Login Here!</string>
+    <string name="fgot_pwd">Forgot Password?</string>
+    <string name="rset_pwd">Reset Password</string>
+    <string name="bk">Back</string>
+    <string name="title_interner">Internet Error</string>
+    <string name="internet_error">Please check your internet connection</string>
+    <string name="about_us"><![CDATA[Turning Point Computers is a leading Training Institute in North Karnataka since with the mission of providing best quality Computer education to all class of people. Turning Point Computers is a Franchisee of KEONICS (A government of Karnataka Enterprise) for government Certification &amp; Employment. Over the past few years the growth of the computer industry has been quite remarkable &amp; today it is the fastest growing industry, Not just the students or housewives, even experienced professional are helped greatly by upgrading themselves in Turning Point Computers. Our organization not only provides the platform to build up the bright professional career in computer field but also provides the placement opportunities. As Computer knowledge has become primary requirement for everyone, our Institute provides best Quality Computer Education. Our motive is to make all class of people Computer literate &amp; take all possible advantages to make their future much brighter.
+
+We have gained a tremendous experience in the field of programming &amp; engineering. We have created a proper IT training courses structure &amp; duration to improve the effectiveness &amp; efficiency of the courses that we offer. ]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Testing for login &amp; register validation -->
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter an email address &amp; password.</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="signup_success">Account successfully created! You can now Login.</string>
+    <string name="login_error_message">Please make sure you enter an email address &amp; password.</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_item">Add New Item</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_update_password">UpdatePasswordActivity</string>
+
+
+    <string name="dash_board">Dash Board</string>
+
+    <string name="confirm_password_error">Confirm Password Error</string>
+    <string name="login_success">Login Sucess</string>
+</resources>

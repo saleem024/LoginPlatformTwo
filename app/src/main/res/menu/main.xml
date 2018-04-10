@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item_share"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:icon="@mipmap/ic_launcher_sha"
+        android:title="Share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_notification"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:icon="@mipmap/ic_launcher_notifi"
+        android:title="Notification"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_about_us"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:title="About Us" />
+    <item
+        android:id="@+id/menu_item_contact_us"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:title="Contact Us" />
+    <item
+        android:id="@+id/menu_item_privacy_policy"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:title="Privacy Policy" />
+
+    <item
+        android:id="@+id/menu_item_change_password"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:title="Change Password" />
+    <!--<item-->
+    <!--android:id="@+id/menu_item_firebase_notification"-->
+    <!--android:title="Firebase Notification"-->
+    <!--android:actionProviderClass="android.widget.ShareActionProvider" />-->
+    <!--<item-->
+    <!--android:id="@+id/btn_chg_password"-->
+    <!--android:title="change Password"-->
+    <!--android:actionProviderClass="android.widget.ShareActionProvider" />-->
+    <!--<item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="@string/menu_search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />-->
+</menu>

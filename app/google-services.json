@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701831910180",
+    "firebase_url": "https://clt-enotes.firebaseio.com",
+    "project_id": "clt-enotes",
+    "storage_bucket": "clt-enotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701831910180:android:0ea2f85ba43cae39",
+        "android_client_info": {
+          "package_name": "com.techkshetrainfo.cltenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701831910180-24n2nl7ve0m5t5paesk4ggl5in18ap72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techkshetrainfo.cltenotes",
+            "certificate_hash": "1eee688efb2b94afa2b3cb36f62d9e1795698875"
+          }
+        },
+        {
+          "client_id": "701831910180-oa2n3kq76tbbn7171i327es92mgdiuuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_YFnpGZMSbOtDB42x_Ux-f1-FU2C8EY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701831910180-oa2n3kq76tbbn7171i327es92mgdiuuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
